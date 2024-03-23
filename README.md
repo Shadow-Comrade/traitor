@@ -1,4 +1,4 @@
-#dim b Traitor
+#dim ba Traitor
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
